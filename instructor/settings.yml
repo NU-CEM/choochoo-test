@@ -1,15 +1,13 @@
 # Key settings (must edit)
-project_title: Choochoo template repository
-project_repo: lucydot/ChooChoo-template
+project_title: Choochoo test repository
+project_repo: nu-cem/choochoo-test
 admins:
 - lucydot
-- choochoo-bot
 instructors:
 - lucydot
 students:
 - lucydot
-- choochoo-bot
-web_address: https://lucydot.github.io/ChooChoo-template
+web_address: https://nu-cem.github.io/choochoo-test
 
 # User options (may edit)
 questions: true
